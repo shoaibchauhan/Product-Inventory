@@ -31,7 +31,7 @@ This project provides a set of CRUD APIs for managing a product inventory using 
 
     ```bash
     git clone https://github.com/shoaibchauhan/Product-Inventory
-    cd product-inventory-api
+    cd Product-Inventory
     ```
 
 2. Start the application using Docker Compose:
