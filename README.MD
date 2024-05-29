@@ -30,7 +30,7 @@ This project provides a set of CRUD APIs for managing a product inventory using 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/product-inventory-api.git
+    git clone https://github.com/shoaibchauhan/Product-Inventory
     cd product-inventory-api
     ```
 
